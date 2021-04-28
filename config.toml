@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hugo Site that pulls in some content from an external repo"
+theme = "bare"
